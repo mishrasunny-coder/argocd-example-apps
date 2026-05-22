@@ -1,0 +1,5 @@
+kind: ConfigMap
+metadata:
+  name: guestbook-config
+data:
+  message: "This is temporary and will be removed soon."
